@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/677babf570129741a8a69545?variant=dark)](https://roadmap.sh)
+
 <!--
 **RAM-4/RAM-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning 
+
 [![roadmap.sh](https://roadmap.sh/card/wide/677babf570129741a8a69545?variant=dark)](https://roadmap.sh)
 
 <!--

@@ -3,8 +3,8 @@
 Professional background in full stack web development (Javascript, Typescript) using popular front-end frameworks like Vue (2.x) and Angular (17/18). I've got experience with Node for the back-end. Will do a more exhaustive list later.
 
 - 📚 I'm willing to focus on learning DevOps tools and best practices. For now I am messing with Python !
-
-[![roadmap.sh](https://roadmap.sh/card/tall/677babf570129741a8a69545?variant=dark&roadmaps=python%2Cdevops)](https://roadmap.sh)
+  
+[![roadmap.sh](https://roadmap.sh/card/tall/677babf570129741a8a69545?variant=dark)](https://roadmap.sh)
 
 - 🔭 I am not sure yet but I'm looking forward to leverage Github tools and activity for training and new opportunities. Feel free to reach me 🤙
 <!--

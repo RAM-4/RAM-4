@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Professional background in full stack web development (Javascript, Typescript) using popular front-end frameworks like Vue (2.x) and Angular (17/18). I did some cross-platform mobile development too using Cordova / Ionig. I've got experience with Node for the back-end.
+Professional background in full stack web development (Javascript, Typescript) using popular front-end frameworks like Vue (2.x) and Angular (17/18). I did some cross-platform mobile development too using Cordova / Ionic. I've got experience with Node for the back-end.
 
 - 📚 I'm willing to focus on learning DevOps ways and best practices. For now I am messing with Python !
   

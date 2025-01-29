@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-Professional background in full stack web development (Javascript, Typescript) using popular front-end frameworks like Vue (2.x) and Angular (17/18). I've got experience with Node for the back-end. Will do a more exhaustive list later.
+Professional background in full stack web development (Javascript, Typescript) using popular front-end frameworks like Vue (2.x) and Angular (17/18). I did some cross-platform mobile development too using Cordova / Ionig. I've got experience with Node for the back-end.
 
-- 📚 I'm willing to focus on learning DevOps tools and best practices. For now I am messing with Python !
+- 📚 I'm willing to focus on learning DevOps ways and best practices. For now I am messing with Python !
   
 [![roadmap.sh](https://roadmap.sh/card/tall/677babf570129741a8a69545?variant=dark)](https://roadmap.sh)
 
-- 🔭 I am not sure yet but I'm looking forward to leverage Github tools and activity for training and new opportunities. Feel free to reach me 🤙
 <!--
 **RAM-4/RAM-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
